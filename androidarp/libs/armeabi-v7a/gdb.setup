@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi-v7a
+directory /home/ljg/adt/android-ndk-r14b/platforms/android-14/arch-arm /home/ljg/adt/android-ndk-r14b/sources/cxx-stl/stlport/stlport /home/ljg/adt/android-ndk-r14b/sources/cxx-stl//gabi++/include jni

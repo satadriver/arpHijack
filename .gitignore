@@ -11,10 +11,28 @@
 *.gch
 *.pch
 
+*.iobj
+*.VC.db
+*.ipch
+*.pch
+*.ipdb
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.idb
+Thumbs.db
+/.vs
+/x64
+/debug
+/release
+/Debug
+/Release
+
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+#*.so
+#*.dylib
+#*.dll
 
 # Fortran module files
 *.mod
@@ -23,8 +41,8 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
-*.lib
+#*.a
+#*.lib
 
 # Executables
 *.exe
